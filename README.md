@@ -22,6 +22,16 @@
 - [Общая](https://github.com/31isr/up09-bruno)
 - [Лабораторная работа](https://github.com/31isr/up09-bruno)
 
+#### Render
+
+- [Общая](https://github.com/32isr/up09-render)
+- [Лабораторная](https://github.com/32isr/up09-render-lab)
+
+#### Express
+
+- [Общая](https://github.com/32isr/up09-express)
+- [Лабораторная работа](https://github.com/32isr/up09-express-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
