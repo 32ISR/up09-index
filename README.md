@@ -17,6 +17,11 @@
 
 ### Лабораторные
 
+> [!WARNING]  
+> Дедлайны работ смотрите в лидерборде
+
+_Отработка выдается согласно посещаемости. Наличие у вас отработки можно посмотреть в лидерборде, если в колонке отработки вы помечены цветом_
+
 #### Bruno
 
 - [Общая](https://github.com/31isr/up09-bruno)
@@ -31,11 +36,8 @@
 
 - [Общая](https://github.com/32isr/up09-express)
 - [Лабораторная работа Express](https://github.com/32isr/up09-express-lab)
-
-> [!WARNING]  
-> Работы выше должны быть сданы до 06.04.2026
-
 - [Лабораторная работа Own-Express](https://github.com/32isr/up09-own-express-lab)
+- [Отработка-работа Express-makeup](https://github.com/32isr/up09-express-makeup)
 
 ## Как выполнять задания
 
