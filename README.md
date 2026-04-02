@@ -24,8 +24,8 @@ _Отработка выдается согласно посещаемости. 
 
 #### Bruno
 
-- [Общая](https://github.com/31isr/up09-bruno)
-- [Лабораторная работа Bruno](https://github.com/31isr/up09-bruno)
+- [Общая](https://github.com/32isr/up09-bruno)
+- [Лабораторная работа Bruno](https://github.com/32isr/up09-bruno)
 
 #### Render
 
