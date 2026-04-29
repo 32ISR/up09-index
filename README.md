@@ -39,6 +39,12 @@ _Отработка выдается согласно посещаемости. 
 - [Лабораторная работа Own-Express](https://github.com/32isr/up09-own-express-lab)
 - [Отработка-работа Express-makeup](https://github.com/32isr/up09-express-makeup)
 
+#### Deploy
+
+- [Общая Deploy](https://github.com/32isr/up09-deploy)
+- [Общая Strapi](https://github.com/32isr/up09-strapi)
+- [Лабораторная работа Strapi](https://github.com/32isr/up09-strapi-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
