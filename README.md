@@ -1,5 +1,5 @@
 # Разработка пользовательских интерфейсов
-https://sigame.vladimirkhil.com/?_d47135
+
 ## Содержание
 
 1. [Лидерборд](https://docs.google.com/spreadsheets/d/1222J8MhHo16lLjgih-ziETVz92cts-iA/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
@@ -44,6 +44,20 @@ _Отработка выдается согласно посещаемости. 
 - [Общая Deploy](https://github.com/32isr/up09-deploy)
 - [Общая Strapi](https://github.com/32isr/up09-strapi)
 - [Лабораторная работа Strapi](https://github.com/32isr/up09-strapi-lab)
+
+##### REST API
+
+- [Общая Laravel](https://github.com/32isr/up09-laravel)
+
+- [Лабораторная Laravel](https://github.com/32isr/up09-laravel-api-lab)
+
+##### Blade
+
+- [Шаблон Laravel](https://github.com/32isr/laravel-template)
+
+- [Лабораторная Laravel](https://github.com/32isr/up09-laravel-lab)
+
+- [Работа у кого нет автомата](https://github.com/32isr/up09-final-lab)
 
 ## Как выполнять задания
 
