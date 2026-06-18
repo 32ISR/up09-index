@@ -1,0 +1,24 @@
+info:
+  name: 2. Создание товара
+  type: http
+  seq: 2
+
+http:
+  method: POST
+  url: "{{base_url}}/api/items"
+  body:
+    type: json
+    data: |-
+      {
+        "title": "iPhone 1234567890-",
+        "description": "Новый iPhone 14 в идеальном состоянии, все аксессуары в комплекте",
+        "price": 80000,
+        "imageUrl": "https://example.com/iphone.jpg"
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

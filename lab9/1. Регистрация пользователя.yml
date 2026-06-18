@@ -1,0 +1,23 @@
+info:
+  name: 1. Регистрация пользователя
+  type: http
+  seq: 1
+
+http:
+  method: POST
+  url: "{{base_url}}/api/auth/register"
+  body:
+    type: json
+    data: |-
+      {
+        "username": "testuser12345222",
+        "password": "password123",
+        "email": "test@example.com"
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5

@@ -1,0 +1,25 @@
+info:
+  name: 4. Создание ставки на товар
+  type: http
+  seq: 4
+
+http:
+  method: POST
+  url: "{{base_url}}/api/items/:id/bids"
+  params:
+    - name: id
+      value: "1773225661793"
+      type: path
+  body:
+    type: json
+    data: |-
+      {
+        "amount": 85000
+      }
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
